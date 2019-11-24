@@ -1,0 +1,11 @@
+img{
+    width: 100%;
+    border-radius: 5px;
+}
+.error {
+    color: red;
+    font-size: 2rem;
+    position: relative;
+    top: -60px;
+    left: 20px;
+}
